@@ -1,3 +1,13 @@
-week-3/app/.env
+# Local env files — never commit real secrets
 week-3/app/.env
 week-4/.env
+.env
+
+# Python virtual environments
+venv/
+.venv/
+week-3/venv/
+
+# Python caches
+__pycache__/
+*.pyc
