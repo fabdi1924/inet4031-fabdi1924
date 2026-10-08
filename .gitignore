@@ -11,3 +11,7 @@ week-3/venv/
 # Python caches
 __pycache__/
 *.pyc
+week-5/terraform.tfvars
+week-5/*.tfstate
+week-5/*.tfstate.*
+week-5/.terraform/
