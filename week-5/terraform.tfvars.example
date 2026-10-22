@@ -1,4 +1,0 @@
-postgres_user     = "replace-me"
-postgres_password = "replace-me"
-postgres_db       = "replace-me"
-flask_secret_key  = "replace-me"
